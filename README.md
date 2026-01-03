@@ -43,7 +43,7 @@ docker compose up -d
 ## Develope
 Clone this repo and start the server with the following commands:
 ```bash
-git clone https://github.com/Luna-devv/githook
+git clone https://github.com/shi-gg/githook
 go run .
 ```
 

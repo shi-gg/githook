@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Luna-devv/githook/discord"
-	"github.com/Luna-devv/githook/utils"
+	"github.com/shi-gg/githook/discord"
+	"github.com/shi-gg/githook/utils"
 	"github.com/google/go-github/v61/github"
 )
 

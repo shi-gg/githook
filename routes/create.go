@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"github.com/Luna-devv/githook/config"
-	"github.com/Luna-devv/githook/utils"
+	"github.com/shi-gg/githook/config"
+	"github.com/shi-gg/githook/utils"
 	_ "github.com/joho/godotenv/autoload"
 )
 

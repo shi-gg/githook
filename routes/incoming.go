@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Luna-devv/githook/config"
-	"github.com/Luna-devv/githook/events"
-	"github.com/Luna-devv/githook/utils"
+	"github.com/shi-gg/githook/config"
+	"github.com/shi-gg/githook/events"
+	"github.com/shi-gg/githook/utils"
 	_ "github.com/joho/godotenv/autoload"
 	"github.com/redis/go-redis/v9"
 )

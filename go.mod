@@ -1,4 +1,4 @@
-module github.com/Luna-devv/githook
+module github.com/shi-gg/githook
 
 go 1.24.4
 
